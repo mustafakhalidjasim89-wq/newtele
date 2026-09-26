@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+pillow
+docling
+paddleocr
+paddlepaddle
+torch
+transformers
+accelerate
